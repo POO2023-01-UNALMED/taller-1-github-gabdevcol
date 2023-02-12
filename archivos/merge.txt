@@ -1,3 +1,6 @@
 Gabriel Serrano
 22
 Espero que la materia me aporte herramientas para desarrollar mis proyectos
+si se tiene un archivo en remoto y no se tiene en el local se puede traer y actualizar el remoto pero
+si se crea un archivo en el local con el mismo nombre que tiene otro archivo en el remoto y ademas tienen diferente contenido causa conflicto
+no se hiizo el commit porque la carpeta estaba vacia 
